@@ -14,7 +14,5 @@ We need to analyze key indicators for our pizza sales data to gain insights into
 #CHARTS REQUIREMENT
 We would like to visualize various aspects of our pizza sales data to gain insights and understand key trends. We have identified the following requirements for creating charts:
 1.Daily Trend for Total Orders: Create a bar chart that displays the daily trend of total orders over a specific time period. This chart will fluctuations in order volumes on a daily basis. hourly trend of total orders throughout the day. This chart will allow
-
 2.Hourly Trend for Total Orders: help us identify any patterns or Create a line chart that illustrates the or periods of high order activity.
-
 3.Percentage of Sales by Pizza Category: Create a pie chart us to identify peak hours that shows the distribution of sales across different pizza categories. This chart will provide insights into the popularity of various pizza categories and their contribution to overall sales.
